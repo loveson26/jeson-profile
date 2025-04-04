@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeson P. Dahil-Dahil - Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 15px;
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+        .socials a {
+            margin: 0 10px;
+            text-decoration: none;
+            font-size: 1.2rem;
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="/mnt/data/463660133_9412422155439673_1299511997530547144_n.jpg" alt="Jeson's Profile Picture">
+        <h1>Jeson P. Dahil-Dahil</h1>
+        <p>Hi, I'm Jeson P. Dahil-Dahil, a dedicated Social Media Virtual Assistant passionate about helping brands grow their online presence. From content creation to engagement strategies, I handle the details so you can focus on what matters most. Whether it's managing posts, responding to messages, or analyzing insights, I bring creativity and efficiency to every project. Let's make your brand stand out in the digital world!</p>
+        <div class="socials">
+            <a href="#">Instagram</a>
+            <a href="#">Twitter</a>
+            <a href="https://www.linkedin.com/in/jeson-dahil-dahil-00729b339/" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
